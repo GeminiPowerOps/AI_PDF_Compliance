@@ -116,7 +116,7 @@ The interactive web dashboard provides a user-friendly interface for analyzing y
 
 ### Live Demo
 
-**[Click here to watch a video walkthrough of the web interface.](./streamlit-streamlit_app-2026-03-30-01-14-42.webm)**
+**[Click here to watch a video walkthrough of the web interface.](./demo-streamlit.webm)**
 
 *(Note: For embedding in GitHub PRs or other Markdown formats, converting this `.webm` video to a GIF is recommended.)*
 
